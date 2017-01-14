@@ -1,0 +1,11 @@
+{
+  "name": "comp308-w2017-lesson1b",
+  "version": "1.0.0",
+  "description": "demo for nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amandeepaujla",
+  "license": "ISC"
+}
